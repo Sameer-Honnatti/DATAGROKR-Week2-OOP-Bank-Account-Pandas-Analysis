@@ -1,0 +1,9 @@
+customer_id,customer_name,account_type,branch
+C001,Sameer Honnatti,Savings,Bangalore
+C002,Rahul Sharma,Current,Mysore
+C003,Priya Shetty,Savings,Bangalore
+C004,Arjun Kumar,Current,Mangalore
+C005,Ananya Rao,Savings,Bangalore
+C006,Vikram Singh,Current,Mysore
+C007,Neha Patil,Savings,Hubli
+C008,Karan Reddy,Current,Bangalore
